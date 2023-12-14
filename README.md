@@ -8,13 +8,13 @@
 
 # Katkıda bulunanlar
 
--Hasan Çelik
+- Hasan Çelik
 
 # Kullanılan yazılım dilleri
 
--HTML-CSS3-JS
+- HTML-CSS3-JS
 
 # Açıklama
 
--Emlak şirketleri ve müşterileri için geliştirilmiş, evleri hızlıca inceleme ve gezinme imkanı sağlayan, basit ve şık bir tasarıma sahip gayrimenkul ve inşaat websitesi projesidir.
+- Emlak şirketleri ve müşterileri için geliştirilmiş, evleri hızlıca inceleme ve gezinme imkanı sağlayan, basit ve şık bir tasarıma sahip gayrimenkul ve inşaat websitesi projesidir.
 
